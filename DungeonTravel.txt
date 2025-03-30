@@ -1,8 +1,8 @@
 ## Title: DungeonTravel
 ## Author: |c8000ffsecretrob|r
-## Version: 2.3.2
-## APIVersion: 101044
-## AddOnVersion: 13
+## Version: 2.3.3
+## APIVersion: 101045
+## AddOnVersion: 14
 ## SavedVariables: DungeonTravel_SavedVariables
 ## DependsOn: LibAddonMenu-2.0 LibSlashCommander
 ##
